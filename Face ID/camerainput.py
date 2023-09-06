@@ -4,6 +4,7 @@ import sys
 import pathlib
 import threading
 from deepface import DeepFace
+from door import open
 
 def detect(frame):
     for i in range(1):
@@ -12,6 +13,7 @@ def detect(frame):
     try:
         if DeepFace.verify(frame,approvedfaces):
             approved=True
+            open()
         else:
             approved=False
     except ValueError:
