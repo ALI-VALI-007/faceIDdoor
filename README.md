@@ -1,6 +1,8 @@
 # Face ID Door
 
-This project implements a Face ID-based door lock system using OpenCV and DeepFace for face recognition and GPIO for controlling the door lock mechanism.
+This project implements a Face ID-based door lock system using OpenCV and DeepFace for face recognition and GPIO for controlling the door lock mechanism. If you have any questions feel free to contact me (as well as if you want any new features) 
+
+This is a relatively simple program so feel free to modify it as you wish!
 
 ## Overview
 
