@@ -28,7 +28,7 @@ The Face ID Door system captures video input from a camera, detects faces in the
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/yourusername/face-id-door.git
+    git clone https://github.com/Ali-Vali-007/face-id-door.git
     cd face-id-door
     ```
 
