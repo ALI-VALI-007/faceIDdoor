@@ -4,6 +4,9 @@ This project implements a Face ID-based door lock system using OpenCV and DeepFa
 
 This is a relatively simple program so feel free to modify it as you wish!
 
+## Demo + Code Breakdown:
+https://youtu.be/EQ7uYZYDe3o
+
 ## Overview
 
 The Face ID Door system captures video input from a camera, detects faces in the frames, and verifies them against a set of approved faces. If a match is found, the door is unlocked. The door control logic is handled through GPIO pins, suitable for use with hardware like the Raspberry Pi.
